@@ -5,7 +5,7 @@
 package studentlist;
 
 /** entity 
- *
+ * this is part time branch
  * @author sivagamasrinivasan
  */
 public class Student // model the student raw data
